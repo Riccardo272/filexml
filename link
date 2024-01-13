@@ -1,0 +1,16 @@
+{
+  "links": [
+    {
+      "file_name": "samsung.json",
+      "url": "https://example.com/data1.json"
+    },
+    {
+      "file_name": "iphone.json",
+      "url": "https://example.com/data2.json"
+    },
+    {
+      "file_name": "huaweijson",
+      "url": "https://example.com/data3.json"
+    }
+  ]
+}
