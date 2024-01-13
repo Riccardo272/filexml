@@ -2,15 +2,15 @@
   "links": [
     {
       "file_name": "samsung.json",
-      "url": "https://example.com/data1.json"
+      "url": "https://raw.githubusercontent.com/Riccardo272/json/main/samsung.json"
     },
     {
       "file_name": "iphone.json",
-      "url": "https://example.com/data2.json"
+      "url": "https://raw.githubusercontent.com/Riccardo272/json/main/iphone.json"
     },
     {
       "file_name": "huaweijson",
-      "url": "https://example.com/data3.json"
+      "url": "https://raw.githubusercontent.com/Riccardo272/json/main/huawei.json"
     }
   ]
 }
