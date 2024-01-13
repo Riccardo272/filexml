@@ -1,20 +1,20 @@
-﻿[
+[
     {
-"name":"Huawei P60 Pro "
-"price":"1.099€"
-"colors":["Nero","Perla"],
-"memory":"512GB"
+        "name": "Huawei P60 Pro",
+        "price": "1.099€",
+        "colors": ["Nero", "Perla"],
+        "memory": "512GB"
     },
     {
-"name":"Huawei Mate P50 Pro"
-"price":"933€"
-"colors":[ "Nero","argento"],
-"memory":"256GB"
+        "name": "Huawei Mate P50 Pro",
+        "price": "933€",
+        "colors": ["Nero", "argento"],
+        "memory": "256GB"
     },
     {
-"name":"Huawei nova 11 Pro "
-"price":"649€"
-"colors":[ "Nero","Verde"],
-"memory":"256GB"
+        "name": "Huawei nova 11 Pro",
+        "price": "649€",
+        "colors": ["Nero", "Verde"],
+        "memory": "256GB"
     }
 ]
